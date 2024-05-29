@@ -62,7 +62,7 @@ Run the following command to build the image:
 
 bash
 Copy code
-docker build -t rslim087/ecommerce-ui .
+docker build -t danyalkhanzada/ecommerce-ui .
 This command will build the Docker image using the provided Dockerfile and tag it as rslim087/ecommerce-ui.
 
 **🤝 Contributing**
