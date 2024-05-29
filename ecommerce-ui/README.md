@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 If you encounter any issues or have questions regarding this Docker image or the e-commerce UI application, please open an issue on the GitHub repository.
 
-Feel free to customize this README according to your specific project details and requirem
+Feel free to customize this README according to your specific project details and requirements.

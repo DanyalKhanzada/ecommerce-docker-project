@@ -8,7 +8,4 @@ COPY package*.json .
 RUN npm install
 # Copy the rest of the application source code
 COPY . .
-# Expose the port that the API listens on
-EXPOSE 3003
-# Run the Node.js application when the container starts
-CMD ["node", "auth_api.js"]
+# Expose the port that the API 
