@@ -26,7 +26,7 @@ docker run --network=my-network -p 4000:4000 \
 -e REACT_APP_ORDER_API_HOST=http://order-management \
 -e REACT_APP_SHIPPING_API_HOST=http://shipping-and-handling \
 -e REACT_APP_CONTACT_API_HOST=http://contact-support-team \
---name ecommerce-ui rslim087/ecommerce-ui
+--name ecommerce-ui danyalkhanzada/ecommerce-ui
 
 Replace my-network with the name of the Docker network where the required microservices are running. The container exposes port 4000, which you can map to a desired port on your host machine using the -p flag.
 
@@ -63,7 +63,7 @@ Run the following command to build the image:
 bash
 Copy code
 docker build -t danyalkhanzada/ecommerce-ui .
-This command will build the Docker image using the provided Dockerfile and tag it as rslim087/ecommerce-ui.
+This command will build the Docker image using the provided Dockerfile and tag it as danyalkhanzada/ecommerce-ui.
 
 **🤝 Contributing**
 
