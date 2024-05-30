@@ -6,6 +6,8 @@ This Docker image provides a React application with a Node.js server for an e-co
 
 Looking to make an impact in the world of e-commerce? This project offers a chance to demonstrate your proficiency in modern web development, containerization, and microservices architecture. Dive in to learn, contribute, and enhance your portfolio with a real-world application that is both complex and rewarding.
 
+![gif-docker(2)](https://github.com/DanyalKhanzada/ecommerce-docker-project/assets/78877585/a42fa599-3d51-42c5-87fc-3a173fa28d7d)
+
 **🚀 Prerequisites**
 
 Before running a container from this image, ensure that you have the following:
