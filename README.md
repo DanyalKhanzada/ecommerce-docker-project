@@ -65,6 +65,9 @@ Copy code
 docker build -t danyalkhanzada/ecommerce-ui .
 This command will build the Docker image using the provided Dockerfile and tag it as danyalkhanzada/ecommerce-ui.
 
+![gif-vs-code(1)](https://github.com/DanyalKhanzada/ecommerce-docker-project/assets/78877585/9d0c3e2e-0888-4623-855f-c0e7917295fa)
+
+
 **🤝 Contributing**
 
 If you would like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
